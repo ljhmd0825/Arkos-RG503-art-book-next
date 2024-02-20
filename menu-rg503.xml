@@ -1,0 +1,10 @@
+ <theme>
+
+   <view name="menu">
+      <menuText name="menutext">
+         <fontSize>0.036</fontSize> <!-- 0.036 -->
+      </menuText>
+   </view>
+
+</theme>
+
