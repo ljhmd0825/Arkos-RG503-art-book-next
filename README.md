@@ -2,6 +2,7 @@
 artbook next theme for Arkos RG503 and OGS (also include Korean font)
 
 ## Preview
+|![helpbar](https://github.com/ljhmd0825/Arkos-RG503-art-book-next/assets/75230324/a8160fb5-419a-428d-8866-d8620f45532d) |![helpbar-no](https://github.com/ljhmd0825/Arkos-RG503-art-book-next/assets/75230324/d249959a-2a6b-420c-9f39-eb235e5e68bc)
 
 ### **Acknowledgments**
 * Original theme : https://github.com/anthonycaccese/art-book-next-jelos
