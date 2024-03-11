@@ -1,0 +1,9 @@
+<theme>
+
+   <variables>
+      <fontBold>./_inc/fonts/PretendardGOV-Bold.otf</fontBold>
+      <fontLight>./_inc/fonts/PretendardGOV-Light.otf</fontLight>
+      <fontRegular>./_inc/fonts/PretendardGOV-Regular.otf</fontRegular>
+   </variables>
+
+</theme>

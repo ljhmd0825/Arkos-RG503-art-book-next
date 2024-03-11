@@ -1,0 +1,9 @@
+<theme>
+
+   <variables>
+      <fontBold>./_inc/fonts/Oxygen-Bold.otf</fontBold>
+      <fontLight>./_inc/fonts/Oxygen-Light.otf</fontLight>
+      <fontRegular>./_inc/fonts/Oxygen-Regular.otf</fontRegular>
+   </variables>
+
+</theme>

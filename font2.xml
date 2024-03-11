@@ -1,0 +1,9 @@
+<theme>
+
+   <variables>
+      <fontBold>./_inc/fonts/NanumSquareNeo-cBd.ttf</fontBold>
+      <fontLight>./_inc/fonts/NanumSquareNeo-aLt.ttf</fontLight>
+      <fontRegular>./_inc/fonts/NanumSquareNeo-bRg.ttf</fontRegular>
+   </variables>
+
+</theme>
