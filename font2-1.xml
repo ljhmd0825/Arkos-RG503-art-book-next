@@ -9,7 +9,7 @@
    <view name="basic,detailed,video">
       <textlist name="gamelist">
          <fontSize>0.038</fontSize><!-- 32 -->
-         <lineSpacing>1.4875</lineSpacing>
+         <lineSpacing>1.5125</lineSpacing>
       </textlist>
    </view>
 
@@ -36,11 +36,11 @@
    <view name="menu">
 
       <menuText name="menutitle">
-         <fontSize>0.030</fontSize> <!-- 0.045 -->
+         <fontSize>0.045</fontSize> <!-- 0.045 -->
       </menuText>
 
       <menuText name="menutext">         <!-- <fontSize>0.036</fontSize> -->
-         <fontSize>0.035</fontSize>
+         <fontSize>0.036</fontSize>
       </menuText>
 
    </view>

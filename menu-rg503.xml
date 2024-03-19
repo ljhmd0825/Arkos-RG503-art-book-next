@@ -1,10 +1,11 @@
  <theme>
 
-   <view name="menu">
-      <menuText name="menutext">
-         <fontSize>0.036</fontSize> <!-- 0.036 -->
-      </menuText>
-   </view>
+   <subset name="fontt" displayName="Font Type">
+      <include name="font1" displayName="PretendardGOV">./font1.xml</include>
+      <include name="font2" displayName="NanumSquareNeo">./font2.xml</include>
+      <include name="font3" displayName="Oxygen">./font3.xml</include>
+   </subset>
+
 
 </theme>
 

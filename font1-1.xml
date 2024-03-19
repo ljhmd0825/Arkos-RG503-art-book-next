@@ -1,22 +1,22 @@
 <theme>
 
    <variables>
-      <fontBold>./_inc/fonts/NanumSquareNeo-cBd.ttf</fontBold>
-      <fontLight>./_inc/fonts/NanumSquareNeo-aLt.ttf</fontLight>
-      <fontRegular>./_inc/fonts/NanumSquareNeo-bRg.ttf</fontRegular>
+      <fontBold>./_inc/fonts/PretendardGOV-Bold.otf</fontBold>
+      <fontLight>./_inc/fonts/PretendardGOV-Light.otf</fontLight>
+      <fontRegular>./_inc/fonts/PretendardGOV-Regular.otf</fontRegular>
    </variables>
 
    <view name="basic,detailed,video">
       <textlist name="gamelist">
          <fontSize>0.038</fontSize><!-- 32 -->
-         <lineSpacing>1.4875</lineSpacing>
+         <lineSpacing>1.5125</lineSpacing>
       </textlist>
    </view>
 
    <view name="detailed,video">
       <text name="md_description">
-         <fontSize>0.030</fontSize><!-- 40 -->
-         <lineSpacing>1.5125</lineSpacing>
+         <fontSize>0.037037037037037</fontSize><!-- 40 -->
+         <lineSpacing>1.5</lineSpacing>
       </text>
       <datetime name="md_releasedate">
          <fontSize>0.025925925925926</fontSize><!-- 28 -->
@@ -36,11 +36,11 @@
    <view name="menu">
 
       <menuText name="menutitle">
-         <fontSize>0.030</fontSize> <!-- 0.045 -->
+         <fontSize>0.045</fontSize> <!-- 0.045 -->
       </menuText>
 
       <menuText name="menutext">         <!-- <fontSize>0.036</fontSize> -->
-         <fontSize>0.035</fontSize>
+         <fontSize>0.038</fontSize>
       </menuText>
 
    </view>

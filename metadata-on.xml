@@ -25,8 +25,8 @@
          <origin>0 0</origin> 
          <pos>0.483333333333333 0.677777777777778</pos><!-- 784 732 -->
          <size>0.320833333333333 0.259259259259259</size><!-- 760 280 -->
-         <fontSize>0.037037037037037</fontSize><!-- 40 -->
-         <lineSpacing>1.5</lineSpacing>
+<!--          <fontSize>0.037037037037037</fontSize>
+         <lineSpacing>1.5</lineSpacing> -->
          <zIndex>4</zIndex>
       </text>
 

@@ -27,11 +27,11 @@ license:       creative commons CC-BY-NC-SA
    </subset>
 
    <!-- Fonts -->
-   <subset name="fontt" displayName="Font Type">
+<!--    <subset name="fontt" displayName="Font Type">
       <include name="font1" displayName="PretendardGOV">./font1.xml</include>
       <include name="font2" displayName="NanumSquareNeo">./font2.xml</include>
       <include name="font3" displayName="Oxygen">./font3.xml</include>
-   </subset>
+   </subset> -->
 
    <!-- Menu for Device -->
    <subset name="device" displayName="Device">
@@ -179,8 +179,8 @@ license:       creative commons CC-BY-NC-SA
          <secondaryColor>${gamelistListTextlistUnselectedColor}</secondaryColor>
          <scrollSound>./_inc/sounds/scroll.wav</scrollSound>
          <zIndex>5</zIndex>
-         <fontSize>0.038</fontSize><!-- 32 -->
-         <lineSpacing>1.5125</lineSpacing>
+<!--          <fontSize>0.038</fontSize>
+         <lineSpacing>1.5125</lineSpacing> -->
       </textlist>
       <image name="gamelist-background" extra="true">
          <origin>0 0</origin>
@@ -323,7 +323,7 @@ license:       creative commons CC-BY-NC-SA
    <view name="menu">
       <menuText name="menutitle">
          <fontPath>${fontBold}</fontPath>
-         <fontSize>0.045</fontSize> <!-- 0.045 -->
+<!--          <fontSize>0.045</fontSize> --> <!-- 0.045 -->
          <color>ffffff</color>
       </menuText>
       <menuText name="menufooter">
@@ -377,10 +377,5 @@ license:       creative commons CC-BY-NC-SA
          <iconFastShutdown>./_inc/images/menu-icon-shutdown.svg</iconFastShutdown>
       </menuIcons>
    </view>
-
-   <!-- Aspect Ratio -->
-
-   <!-- Custom Fonts -->
-   <include ifSubset="fonts:custom">${themeCustomizationsPath}fonts.xml</include>
 
 </theme>

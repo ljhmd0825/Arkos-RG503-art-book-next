@@ -6,4 +6,43 @@
       <fontRegular>./_inc/fonts/PretendardGOV-Regular.otf</fontRegular>
    </variables>
 
+   <view name="basic,detailed,video">
+      <textlist name="gamelist">
+         <fontSize>0.038</fontSize><!-- 32 -->
+         <lineSpacing>1.5125</lineSpacing>
+      </textlist>
+   </view>
+
+   <view name="detailed,video">
+      <text name="md_description">
+         <fontSize>0.037037037037037</fontSize><!-- 40 -->
+         <lineSpacing>1.5</lineSpacing>
+      </text>
+      <datetime name="md_releasedate">
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+      </datetime>
+      <text name="md_players">
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+      </text>
+      <text name="md_lastplayed">
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+      </text>
+      <text name="md_playcount">
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+      </text>
+
+   </view>
+
+   <view name="menu">
+
+      <menuText name="menutitle">
+         <fontSize>0.045</fontSize> <!-- 0.045 -->
+      </menuText>
+
+      <menuText name="menutext">         <!-- <fontSize>0.036</fontSize> -->
+         <fontSize>0.036</fontSize>
+      </menuText>
+
+   </view>
+
 </theme>
