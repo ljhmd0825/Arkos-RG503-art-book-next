@@ -20,7 +20,10 @@
       <datetime name="md_releasedate,md_lastplayed,md_playcount">
          <visible>false</visible>
       </datetime>
-
+      <rating name="md_rating">
+         <visible>false</visible>
+      </rating>
+	   
    </view>
 
    <view name="detailed">
